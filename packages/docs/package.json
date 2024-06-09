@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@ignite-gbds/docs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -21,9 +21,9 @@
   },
   "devDependencies": {
     "@chromatic-com/storybook": "^1.5.0",
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
+    "@ignite-gbds/eslint-config": "*",
+    "@ignite-gbds/react": "*",
+    "@ignite-gbds/tokens": "*",
     "@storybook/addon-essentials": "^8.1.5",
     "@storybook/addon-interactions": "^8.1.5",
     "@storybook/addon-links": "^8.1.5",

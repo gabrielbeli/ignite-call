@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/tokens",
+  "name": "@ignite-gbds/tokens",
   "version": "1.0.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -14,8 +14,8 @@
   "license": "MIT",
   "description": "",
   "devDependencies": {
-    "@ignite-ui/ts-config": "*",
-    "@ignite-ui/eslint-config": "*",
+    "@ignite-gbds/ts-config": "*",
+    "@ignite-gbds/eslint-config": "*",
     "tsup": "^8.1.0",
     "typescript": "^5.4.5"
   }
